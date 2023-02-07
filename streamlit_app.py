@@ -8,9 +8,9 @@ streamlit.title('My Parents New Healthy Diner is here, can you believe it!')
 
 streamlit.header('Breakfast Menu')
 streamlit.markdown('* Omega 3 & Blueberry Oatmeal')
-streamlit.text('Kale, Spinach & Rocket Smoothie')
-streamlit.text('Hard-Boiled Free-Range Egg')
-streamlit.text('Avocado Toast')
+streamlit..markdown('* Kale, Spinach & Rocket Smoothie')
+streamlit..markdown('* Hard-Boiled Free-Range Egg')
+streamlit..markdown('* Avocado Toast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 
